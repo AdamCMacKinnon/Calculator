@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+    margin: 0px;
+    padding: 0px;
+    background-color:#e5e5e5;
+}
+
+
+.gray{
+    background-color: gray;
+}
+
+.orange{
+    background-color: orange;
+    font-weight: bold;
+}
+
+.lightGray {
+    background-color: lightGray;
+}
+
+.container1 {
+    height: 100vh;
+    width: 100vw;
+    margin-top: 50px;
+    align-items: center;
+    background-color: white;
+    display: flex;
+}
+
+
+
